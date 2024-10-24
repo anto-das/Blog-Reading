@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/djYYMM1/cover-jpg.jpg",
+      "title": "The Silent Whisper",
+      "author": "Aarav Mehta",
+      "author_img": "https://i.ibb.co.com/Nx3FstT/serious-young-caucasian-female-blogger-sitting-desk-with-open-notebook-glasses-mug-making-notes-whil.jpg",
+      "posted_date": "2024-09-12",
+      "reading_time": 7,
+      "hashtags": ["#mystery", "#thriller", "#novel"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/RC71CTR/6494335.jpg",
+      "title": "Beneath the Stars",
+      "author": "Isha Kapoor",
+      "author_img": "https://i.ibb.co.com/hYZqT3p/woman-sitting-wooden-table-writing.jpg",
+      "posted_date": "2024-08-24",
+      "reading_time": 5,
+      "hashtags": ["#romance", "#poetry", "#love"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/Rhw3XjD/6622614.jpg",
+      "title": "The Last Horizon",
+      "author": "Ravi Sharma",
+      "author_img": "https://i.ibb.co.com/Tr1bGtJ/front-view-serious-office-worker-sitting-table.jpg",
+      "posted_date": "2024-07-15",
+      "reading_time": 6,
+      "hashtags": ["#sci-fi", "#adventure", "#space"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/8XcxX97/8734972.jpg",
+      "title": "Echoes of the Past",
+      "author": "Priya Sen",
+      "author_img": "https://i.ibb.co.com/dfk1tpF/thoughtful-creative-male-journalist-writer-biting-pencil-holding-notebook-writing-schedule-look-thin.jpg",
+      "posted_date": "2024-10-01",
+      "reading_time": 8,
+      "hashtags": ["#historical", "#fiction", "#war"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/HdyxLD8/7340159.jpg",
+      "title": "The Mind's Eye",
+      "author": "Aniket Deshmukh",
+      "author_img": "https://i.ibb.co.com/y4kMjhP/stylish-good-looking-ambitious-smiling-brunette-woman-with-curly-hairstyle-cross-hands-chest-confide.jpg",
+      "posted_date": "2024-09-20",
+      "reading_time": 4,
+      "hashtags": ["#psychology", "#selfhelp", "#mindfulness"]
+    }
+  ]
+  
